@@ -1,0 +1,9 @@
+GridPane{
+    -fx-background-color: orange;
+    }
+
+    Text.Subject{
+        -fx-font-size:30;
+        -fx-font-weight: bold;
+        -fx-text-align: center;
+    }
